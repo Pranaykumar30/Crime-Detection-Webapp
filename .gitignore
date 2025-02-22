@@ -1,0 +1,9 @@
+venv/
+runs/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+models/*.pt
+models/*.h5
+models/*/checkpoint/
