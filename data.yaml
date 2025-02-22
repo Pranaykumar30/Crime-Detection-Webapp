@@ -1,0 +1,5 @@
+train: /workspaces/crime-detection-webapp/data/split/train/images
+val: /workspaces/crime-detection-webapp/data/split/val/images
+test: /workspaces/crime-detection-webapp/data/split/test/images
+nc: 6
+names: ['handgun', 'knife', 'sharpe_edged', 'masked_robbers', 'violence', 'normal_case']
